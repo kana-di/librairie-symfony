@@ -25,3 +25,9 @@
 npm-debug.log
 yarn-error.log
 ###< symfony/webpack-encore-bundle ###
+
+###> Sécurité - Variables d'environnement (ajouté par Kana) ###
+/.env
+/.env.dev
+/.env.test
+###< Sécurité - Variables d'environnement ###
